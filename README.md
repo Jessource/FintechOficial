@@ -1,4 +1,4 @@
-# FintechOficial-sistema de controle de Finnaças 
+# FintechOficial-sistema de controle de Finanças 
 
 <h1 align="center"> FintechOficial-backend </h1>
 <p align="center">🚀Aplicação de Crud Puro em Java sem uso de framework</p>
@@ -14,4 +14,4 @@
 - [ ] Crud de despesa
 - [ ] Crud de receita
 - [ ] Crud de investimentos
-- [ ] Crud/categorias de despesas/receitas/ tipos de investimentos
+
