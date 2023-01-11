@@ -31,3 +31,7 @@ Após a instalação do Java, utilizei o driver de banco de dados e todos os rec
 ## Documentações gerais
 Documento de Visão
 <p align="center"> <img src = https://github.com/Jessource/FintechOficial/blob/main/imagens/modelo%20de%20visao.png/> </p>
+
+Modelo de diagrama de claSSe
+<p align="center"> <img src = https://github.com/Jessource/FintechOficial/blob/main/imagens/Class%20Diagram.jpg/> </p>
+
