@@ -5,6 +5,7 @@
 <p align="center">🚀 sistema web fintech surgiu como um projeto desafiador sugerido pela coordenação do meu curso de análise e desenvolvimentos de sistemas(2022) da faculdade de Informática e Administração Paulista - Fiap</p>
 <p align="center"> O objetivo é criação de  uma aplicação para controle financeiro. </p>
 
+
  
 ### Features
 
@@ -25,5 +26,8 @@ Primeiramente, é necessário ter no mínimo a versão 8 do Java.\
 [Versão Linux - baseados em Debian](https://www.oracle.com/java/technologies/downloads/#java8-linux).\
 [Versão MacOS](https://www.oracle.com/java/technologies/downloads/#java8-mac).
 
-Após a instalação do Java, utilizei o driver de banco de dados e todos os recursos da Oracle developer disponibilizado pela Fiap, então os dados de acesso da conexão que utilizei são especificas, não podendo outra pessoa utilizar o mesmo database criado com as intidades. Como sugestão sugiro que crie um database com o drive de sua preferência e utilize as classes de bean como referência para montar sua database. Existe uma classe espercífica "ConnectionManager" que recebe essas configurações.  
+Após a instalação do Java, utilizei o driver de banco de dados e todos os recursos da Oracle developer disponibilizado pela Fiap, então os dados de acesso da conexão que utilizei são especificas, não podendo outra pessoa utilizar o mesmo database criado com as intidades. Como sugestão sugiro que crie um database com o drive de sua preferência e utilize as classes de bean como referência para montar sua database. Existe uma classe espercífica "ConnectionManager" que recebe essas configurações.
 
+## Documentações gerais
+Documento de Visão
+<p align="center"> <img src = https://user-images.githubusercontent.com/68560810/176057599-9a59c22a-d05c-4e4c-a838-edd4c5a4c0e7.png /> </p>
