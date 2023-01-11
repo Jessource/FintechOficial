@@ -30,4 +30,4 @@ Após a instalação do Java, utilizei o driver de banco de dados e todos os rec
 
 ## Documentações gerais
 Documento de Visão
-<p align="center"> <img src = https://user-images.githubusercontent.com/68560810/176057599-9a59c22a-d05c-4e4c-a838-edd4c5a4c0e7.png /> </p>
+<p align="center"> <img src = https://github.com/Jessource/FintechOficial/blob/main/imagens/modelo%20de%20visao.png/> </p>
